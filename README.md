@@ -7,4 +7,4 @@ The user can interact with the thermal flask by running the WaterFlaskGUI class.
 mainly shows our capabilities for handling ADT.
 
 ## Source code:
-It can be accessed in this hyperlink: 
+It can be accessed in this hyperlink: [src](https://github.com/rcSabucido/thermal-flask/tree/main/src)
